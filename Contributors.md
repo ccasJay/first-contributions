@@ -37,6 +37,7 @@
 - [Darlene Ishimwe](https://github.com/DarleneIshimwe)
 - [Nirbhay Pratap Singh](https://github.com/NirbhayPS)
 - [heer](https://github.com/gunheerahuja)
+- [Sawyer Lau](https://github.com/ccasJay)
 - [camonayc](https://github.com/camonayc)
 - [ZhIIhaoc](https://github.com/ZhIIhaoc)
 -[kenrodgers wainaina] (https://github.com/k3n-bat)
